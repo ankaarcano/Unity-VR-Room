@@ -1,0 +1,34 @@
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/obj/Debug/Assembly-CSharp.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/UnityEngine.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/UnityEditor.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Ania/Documents/STUDIA/Praca Magisterska/projekt/Room2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Anna/Desktop/Room2/obj/Debug/Assembly-CSharp.dll
+/Users/Anna/Desktop/Room2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/UnityEngine.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/UnityEditor.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Anna/Desktop/Room2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
